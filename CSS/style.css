@@ -1,3 +1,9 @@
 body {
   background-color: antiquewhite;
 }
+h1 {
+  color: plum;
+}
+.logo {
+  max-width: 50px;
+}
